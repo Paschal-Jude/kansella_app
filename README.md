@@ -1,2 +1,2 @@
 # kansella_app
-Reveal our habits & counsel yourself... one step at a time
+Reveal your habits by yourself, one step at a time
