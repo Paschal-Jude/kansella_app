@@ -1,2 +1,2 @@
 # kansella_app
-One hng product laidat
+Reveal our habits & counsel yourself... one step at a time
